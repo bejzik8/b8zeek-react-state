@@ -32,16 +32,6 @@
 * [Recoil](https://github.com/bejzik8/Recoil)
 * [Immer](https://github.com/bejzik8/immer)
 
-<hr>
-
-> "Logic will take you from A to B. Imagination will take you everywhere."
+> “The best way of learning about anything is by doing.”
 >
-> -- <cite>Albert Einstein</cite>
-
-> “Those who walk with God always reach their destination.”
->
-> -- <cite>Henry Ford</cite>
-
-> “Limits like fears are often just an illusion.”
->
-> -- <cite>Michael Jordan</cite>
+> <cite>— Richard Branson</cite>
