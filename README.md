@@ -23,8 +23,9 @@ const counterReducer = (state, action) => {
 const [CounterProvider, useCounterStore, useCounterDispatch] = createStore(counterReducer, { counter: 0 })
 ```
 
-`StoreProvider` should be provided to the component whose children should have the access to the `useCounterStore` and `useCounterDispatch` functions.
+`StoreProvider` should be provided to the component whose children should have the access to `useCounterStore` and `useCounterDispatch` functions.
 
+`App.js`
 ```jsx
 import React from 'react'
 import { CounterProvider } from 'counter-store.js'
@@ -47,7 +48,8 @@ export default App
 
 Next step is to import store and extract necessary values in children who need those.
 
-```jsx
+`Counter.js`
+```javascript
 import React from 'react'
 import { useCounterStore } from 'counter-store.js'
 
@@ -62,6 +64,7 @@ export default Counter
 
 Final step is to connect dispatch function with children who need to interact with the store.
 
+`IncrementButton.js`
 ```jsx
 import React from 'react'
 import { useCounterDispatch } from 'counter-store.js'
