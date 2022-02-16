@@ -26,6 +26,7 @@
 * Tanner Linsley - [Build your own state management in React with Hooks!](https://www.youtube.com/watch?v=tz8Jqvv_u64&ab_channel=TannerLinsley)
 * Maximilian Schwartzmuller - React -> [Section 25: Replacing Redux with React Hooks](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25601096#overview)
 * Daishi Kato - [React 18 for External Store Libraries](https://www.youtube.com/watch?v=oPfSC5bQPR8&ab_channel=ReactConf2021)
+* Li Hau Tan - [Implementing a Proxy state like valtio](https://www.youtube.com/watch?v=uZnO2G8pqn0&ab_channel=lihautan)
 * James Porter - [Create Your Own State Management Library - London Node User Group - July 2019](https://www.youtube.com/watch?v=OdIYFt5zyQ8&ab_channel=Pusher)
 
 `Libraries to explore:`
