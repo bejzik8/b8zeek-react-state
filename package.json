@@ -1,0 +1,22 @@
+{
+  "name": "b8zeek-react-state",
+  "version": "1.0.0",
+  "description": "React hooks state management library.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bejzik8/b8zeek-react-state.git"
+  },
+  "author": "Mirko Basic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bejzik8/b8zeek-react-state/issues"
+  },
+  "homepage": "https://github.com/bejzik8/b8zeek-react-state#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
