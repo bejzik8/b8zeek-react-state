@@ -7,6 +7,7 @@
 * Function Overloading
 * Publish/Subscribe Pattern
 * Singleton Pattern
+* Monostate Singleton Pattern
 * JavaScript Sets
 
 `Things that can be helpful:`
