@@ -28,6 +28,7 @@
 * Daishi Kato - [React 18 for External Store Libraries](https://www.youtube.com/watch?v=oPfSC5bQPR8&ab_channel=ReactConf2021)
 * Li Hau Tan - [Implementing a Proxy state like valtio](https://www.youtube.com/watch?v=uZnO2G8pqn0&ab_channel=lihautan)
 * James Porter - [Create Your Own State Management Library - London Node User Group - July 2019](https://www.youtube.com/watch?v=OdIYFt5zyQ8&ab_channel=Pusher)
+* hmos.dev - [Deep dive to immer](https://hmos.dev/en/deep-dive-to-immer)
 
 `Libraries to explore:`
 * [use-context-selector](https://github.com/bejzik8/use-context-selector)
