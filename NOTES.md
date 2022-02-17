@@ -37,6 +37,9 @@
 * [Recoil](https://github.com/bejzik8/Recoil)
 * [Immer](https://github.com/bejzik8/immer)
 
+`To do:`
+* Create a library for mutating data Immer-way
+
 > “The best way of learning about anything is by doing.”
 >
 > <cite>— Richard Branson</cite>
