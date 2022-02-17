@@ -39,6 +39,9 @@
 
 `To do:`
 * Create a library for mutating data Immer-way
+* Create font repository
+* Upload Donkey Kong image to src in bejzik8
+* Create a repository with Visual Studio Code settings configuration
 
 > “The best way of learning about anything is by doing.”
 >
