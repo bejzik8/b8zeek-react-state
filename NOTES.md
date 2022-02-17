@@ -42,6 +42,7 @@
 * Create font repository
 * Upload Donkey Kong image to src in bejzik8
 * Create a repository with Visual Studio Code settings configuration
+* Create a repository with all book resources
 
 > “The best way of learning about anything is by doing.”
 >
