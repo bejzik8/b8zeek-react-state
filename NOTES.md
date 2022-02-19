@@ -45,6 +45,10 @@
 * Create a repository with Visual Studio Code settings configuration
 * Create a repository with all book resources
 
+`Good examples:`
+* Using Immer to update the state (it should be updated to handle direct state update, as well)
+<img src='./resources/Screen Shot 2022-02-19 at 2.12.57 PM.png' width=600>
+
 > “The best way of learning about anything is by doing.”
 >
 > <cite>— Richard Branson</cite>
